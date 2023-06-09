@@ -1,0 +1,18 @@
+.container {
+    
+    border-bottom: none;
+    width: fit-content;
+    
+}
+.element {
+    border-bottom: solid black 2px;
+    border: solid black 2px;
+    border-top: none;
+    padding: 15px;
+}
+#last {
+    border-bottom: none;
+}
+.element:hover {
+    background-color:aquamarine;
+}
